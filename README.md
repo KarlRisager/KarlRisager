@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Karl Skarsholm Risager. I'm an university student studying machine learning and datascience at the University of Copenhagen.
+
+I also currently teach at the datascience course at the university of Copenhagen as a TA. 
+
 <!--
 **KarlRisager/KarlRisager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
