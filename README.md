@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-My name is <a href='https://www.linkedin.com/in/karl-risager-65b55a1b6/'>Karl Skarsholm Risager</a>. I'm a university student studying machine learning and datascience at the University of Copenhagen.
+My name is <a href='https://www.linkedin.com/in/karl-risager-65b55a1b6/'>Karl van Eeden Risager</a>. I'm a university student studying machine learning and datascience at the University of Copenhagen.
 
 
 
