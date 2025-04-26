@@ -18,8 +18,7 @@ My main interest is the use of machine learning for medical applications. More s
 
 <h3>Publications</h3>
 
-- Published a <a href='https://miccai.org/'>MICCAI</a> paper, which embeded my bachelor's thesis:
-  - <a href='https://arxiv.org/abs/2407.14994'>Non-Reference Quality Assessment for Medical Imaging: Application to Synthetic Brain MRIs</a>
+- <a href='https://arxiv.org/abs/2407.14994'>Non-Reference Quality Assessment for Medical Imaging: Application to Synthetic Brain MRIs</a>
 
 
 <!--
